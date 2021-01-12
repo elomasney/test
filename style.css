@@ -1,0 +1,22 @@
+.cert-header{
+width: 1024px;
+height: 680px;
+padding: 0px;
+text-align: center;
+ border: 5px solid #fffb00;
+background-color: #f7f7f7;
+}
+
+.title-box{
+    background-color: #3f9fd6a4; 
+    height:150px; 
+    padding-top: 50px; 
+    color:#fffb00;
+    letter-spacing: .1rem;
+    
+}
+
+#certTitle{
+    font-size:50px; 
+    font-weight:bold
+}
